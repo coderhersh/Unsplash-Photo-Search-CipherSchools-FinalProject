@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Unsplash, { toJson } from "unsplash-js";
 import { createApi } from 'unsplash-js';
 
-const unsplash = createApi({ accessKey: 'HjLhlcxBVWGF41XBfn8nneqGaWQyVNnL9Vt9dDQnNOw' });
+const unsplash = createApi({ accessKey: '' });
 
 export default function SearchPhotos() {
 
